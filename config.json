@@ -9,7 +9,7 @@
       
       "addon": false,
       "maps": false,
-      "texture": true,
+      "texture": false,
       "skin": true,
       "more": false,
       
@@ -55,36 +55,12 @@
   ],
   "Texture": [
     {
-        "name": "ICE AND FIRE ARMOR BP (B)",
-        "role": "ICE AND FIRE ARMOR BPICE AND FIRE ARMOR BPICE AND FIRE ARMOR BPICE AND FIRE ARMOR BPICE AND FIRE ARMOR BPICE AND FIRE ARMOR BPICE AND FIRE ARMOR BP",
-        "image": "https://kossandroid.com/Data Android/Minecraft/RLcraft/1/download.jpg",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/RLcraft/1/ICE AND FIRE ARMOR BP.mcpack",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/RLcraft/1/download.jpg",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/RLcraft/1/download.jpg"
-    },
-    {
-        "name": "ICE AND FIRE ARMOR RP",
-        "role": "ICE AND FIRE ARMOR RPICE AND FIRE ARMOR RPICE AND FIRE ARMOR RPICE AND FIRE ARMOR RP",
-        "image": "https://kossandroid.com/Data Android/Minecraft/RLcraft/2/download.jpg",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/RLcraft/2/ICE AND FIRE ARMOR RP.mcpack",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/RLcraft/2/download.jpg",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/RLcraft/2/download.jpg"
-    },
-    {
-        "name": "RL CRAFT 2.0 BP",
-        "role": "RL CRAFT 2.0 BPRL CRAFT 2.0 BPRL CRAFT 2.0 BPRL CRAFT 2.0 BPRL CRAFT 2.0 BP",
-        "image": "https://kossandroid.com/Data Android/Minecraft/RLcraft/3/download.jpg",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/RLcraft/3/RL CRAFT 2.0 BP.mcpack",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/RLcraft/3/download.jpg",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/RLcraft/3/download.jpg"
-    },
-    {
-        "name": "RL CRAFT 2.0 RP",
-        "role": "RL CRAFT 2.0 RPRL CRAFT 2.0 RPRL CRAFT 2.0 RPRL CRAFT 2.0 RPRL CRAFT 2.0 RP",
-        "image": "https://kossandroid.com/Data Android/Minecraft/RLcraft/4/download.jpg",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/RLcraft/4/RL CRAFT 2.0 RP.mcpack",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/RLcraft/4/download.jpg",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/RLcraft/4/download.jpg"
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
     }
   ],
   "Skins": [
